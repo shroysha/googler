@@ -1,5 +1,5 @@
 # googler
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/googler](https://github.com/shroysha/shroysha.github.io/tree/master/archive/googler)
+> see code: [https://github.com/shroysha/googler](https://github.com/shroysha/googler)
 
 ## Description
 null
